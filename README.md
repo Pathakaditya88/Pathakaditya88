@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakaditya88&label=Profile%20views&color=0e75b6&style=flat" alt="pathakaditya88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathakaditya88" alt="pathakaditya88" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathakaditya88" alt="pathakaditya88" /></a> </p> -->
 
 - I’m currently working on **Healthcare Assistance System**
 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/adityap86911385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityap86911385" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pathakaditya88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakaditya88" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_pathak08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_pathak08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/proper_guidance08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proper_guidance08" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@proper_guidance08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="proper_guidance08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya_1530005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya_1530005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pathakaditya88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pathakaditya88" height="30" width="40" /></a>
 </p>
